@@ -4,6 +4,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/arlingtonco/gbfs.json"
   },
   {
+    "name": "gcoo-arlington",
+    "gbfs_url": "https://us.gbfs.gbike.io/arlington/v3.0/gbfs.json"
+  },
+  {
     "name": "lime_arlington",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/arlington/gbfs.json"
   }

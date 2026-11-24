@@ -1,10 +1,6 @@
 [
   {
-    "name": "bird-alexandria",
-    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/alexandria/gbfs.json"
-  },
-  {
-    "name": "spin alexandria",
-    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/alexandria/gbfs.json"
+    "name": "gcoo-alexandria",
+    "gbfs_url": "https://us.gbfs.gbike.io/alexandria/v3.0/gbfs.json"
   }
 ]
